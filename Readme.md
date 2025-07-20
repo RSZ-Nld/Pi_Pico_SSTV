@@ -1,5 +1,5 @@
 Made a pcb for SSTV, project from 
-Mirko Pavleski, see: 
+Mirko Pavleski, see page also for code: 
 
 https://www.hackster.io/mircemk/raspberry-pi-pico-sstv-decoder-receive-images-over-radio-67ece3
 
