@@ -1,4 +1,7 @@
-Made a pcb for SSTV, project from Pavel, see: 
+Made a pcb for SSTV, project from 
+Mirko Pavleski, see: 
+
+
 
 
 
