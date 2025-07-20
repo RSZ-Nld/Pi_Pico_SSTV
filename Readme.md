@@ -16,17 +16,9 @@ Back
 
 
 
+Gerber Files
 
-
-
-
-
-
-
-
-
-
-Gerber Files 
+https://github.com/RSZ-Nld/Pi_Pico_SSTV/blob/main/Gerber.zip
 
 
 
