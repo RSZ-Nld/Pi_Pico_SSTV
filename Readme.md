@@ -3,6 +3,10 @@ Mirko Pavleski, see page also for code:
 
 https://www.hackster.io/mircemk/raspberry-pi-pico-sstv-decoder-receive-images-over-radio-67ece3
 
+and his video:
+
+https://www.youtube.com/watch?v=yhUQvmvqjtk
+
 
 
 
@@ -13,6 +17,7 @@ Front
 Back
 
 ![Photo 10](https://github.com/RSZ-Nld/Pi_Pico_SSTV/blob/main/Back.JPG)
+
 
 
 
