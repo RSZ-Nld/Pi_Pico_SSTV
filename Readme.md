@@ -8,6 +8,11 @@ and his video:
 https://www.youtube.com/watch?v=yhUQvmvqjtk
 
 
+My pcb:
+
+![Photo 11](https://github.com/RSZ-Nld/Pi_Pico_SSTV/blob/main/20250802_172109.jpg)
+
+
 
 
 Front
